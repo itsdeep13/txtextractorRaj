@@ -3,12 +3,13 @@ import os
 ##Code Written By @ItsMeMaster
 
 class Config(object):
-    BOT_TOKEN = "7167580859:AAGLqchS0nxQu2TjeZiG_u-sZhey4KuOl7Q"
-    DB_NAME = "OPHACK"
-    API_ID = "28137469"
-    API_HASH = "3b33568aa7119719d1f37cb15b3ae587"
-    ADMIN_ID = [6568611832, 5487643307, 7510415010]
-    DB_URL = "mongodb+srv://namanjain123eudhc:opmaster@cluster0.5iokvxo.mongodb.net/?retryWrites=true&w=majority"
-    LOG_CHANNEL = -1002173308278 # Your Log Channel ID (Bot ko ADMIN BNAYE)
+    BOT_TOKEN = "8355123253:AAGJPTisze4F8NElZe1XCisyEeY7K6DiNFE"
+    DB_NAME = "uploaderbot"
+    API_ID = "22484497"
+    API_HASH = "c38cb053916c47a97590c244663cbaef"
+    ADMIN_ID = [6252997817, 6363345131, 7510415010]
+    DB_URL = "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority"
+    LOG_CHANNEL = -1002927079315 # Your Log Channel ID (Bot ko ADMIN BNAYE)
     USERLINK = ""
     TUTORIAL_VIDEO = "https://t.me/TheRajBhaiOG"
+
