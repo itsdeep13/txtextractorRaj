@@ -16,7 +16,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot's token",
-            "value": "8355123253:AAGJPTisze4F8NElZe1XCisyEeY7K6DiNFE",
+            "value": "8509691849:AAGoOvZg1hQO4fE3OLUBD6eqNoDVGYJLgTc",
             "required": true
         },
         "DB_NAME": {
@@ -28,4 +28,5 @@
     "addons": [],
     "buildpacks": []
 }
+
 
